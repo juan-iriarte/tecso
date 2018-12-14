@@ -1,0 +1,2 @@
+# tecso
+tecso exercises
